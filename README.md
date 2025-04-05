@@ -1,3 +1,2 @@
 Họ tên: Cao Ngọc Đồng
-- Trường: Đại học Điện lực
-- Ngành: Công nghệ thông tin
+Mã sinh viên: 22810320447
